@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan</h1>
-<h3 align="center">A student of the informatics study program who is interested in the field of web development.</h3>
+<h3 align="center">A guy who is interested in the field of web development</h3>
 
 - 🌱 I’m currently learning **React, Vue, Express, Laravel, Flutter, and Machine Learning**
 
