@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan</h1>
-<h3 align="center">A guy who is interested in the field of web development</h3>
+<h3 align="center">Just ordinary guy with extraordinary mind who is interested in software development</h3>
 
-- 🌱 I’m currently learning **React, Vue, Express, Laravel, Flutter, and Machine Learning**
+- 🌱 I’m currently learning **React, Vue, Express, Flutter, and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://arisandi-satria-jeujanan.netlify.app/](https://arisandi-satria-jeujanan.netlify.app/)
 
