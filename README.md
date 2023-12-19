@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan</h1>
 <h3 align="center">Just ordinary guy with extraordinary mind who is interested in software development</h3>
 
-- 🌱 I’m currently learning **React, Vue, Express, Flutter, and Machine Learning**
+- 🌱 I’m currently learning **React, Express, Flutter, and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://arisandi-satria-jeujanan.netlify.app/](https://arisandi-satria-jeujanan.netlify.app/)
 
-- 📫 How to reach me **arisandisatria@gmail.com**
+- 📫 How to reach me **arisandisatria541@gmail.com**
 
 - ⚡ Fun fact **I like to eat strange (unique) food :D**
 
