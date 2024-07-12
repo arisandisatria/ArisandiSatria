@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Express, Flutter, and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://arisandi-satria-jeujanan.netlify.app/](https://arisandi-satria-jeujanan.netlify.app/)
+- 👨‍💻 All of my projects are available at [here](https://arisandi-portofolio.vercel.app/)
 
 - 📫 How to reach me **arisandisatria541@gmail.com**
 
