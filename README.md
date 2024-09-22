@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan</h1>
 <h3 align="center">Just ordinary guy with extraordinary mind who is interested in software development</h3>
 
-- 🌱 I’m currently learning **React, Express, Flutter, and Machine Learning**
+- 🌱 I’m currently learning **React and Next JS**
 
 - 👨‍💻 All of my projects are available at [here](https://arisandi-portofolio.vercel.app/)
 
