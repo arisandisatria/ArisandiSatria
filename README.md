@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan</h1>
 <h3 align="center">Just ordinary guy with extraordinary mind who is interested in software development</h3>
 
-- 🌱 I’m currently learning **React and Next JS**
+- 🌱 I’m currently learning **React.js and Next.js also React Native**
 
-- 👨‍💻 All of my projects are available at [here](https://arisandi-portofolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [here](https://arisandi.vercel.app/)
 
 - 📫 How to reach me **arisandisatria541@gmail.com**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arisandisatriajeujanan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arisandi satria jeujanan" height="30" width="40" /></a>
-<a href="https://instagram.com/arisandi_satria" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arisandi_satria" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arisandi.dev.art" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arisandi_satria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
