@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan</h1>
 <h3 align="center">Just ordinary guy with extraordinary mind who is interested in software development</h3>
 
-- 🌱 I’m currently learning **React.js and Next.js also React Native**
+- 🌱 I’m currently learning **Laravel, React.js, Next.js, and React Native**
 
-- 👨‍💻 All of my projects are available at [here](https://arisandi.vercel.app/)
+- 👨‍💻 All of my projects are available at [here]([https://arisandi.vercel.app/]
 
-- 📫 How to reach me **arisandisatria541@gmail.com**
+- 📫 How to reach me **arisandisatria541@gmail.com** or dm me in [here](https://www.instagram.com/arisandi.dev.art/))
 
 - ⚡ Fun fact **I like to eat strange (unique) food :D**
 
