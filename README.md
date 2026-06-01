@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan</h1>
+<h1 align="center">Hi 👋, I'm Arisandi Satria Jeujanan. Call me Aris!</h1>
 <h3 align="center">Just ordinary guy with extraordinary mind who is interested in software development</h3>
 
 - 🌱 I’m currently learning **Laravel, React.js, Next.js, and React Native**
