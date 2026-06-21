@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, React.js, Next.js, and React Native**
 
-- 👨‍💻 All of my projects are available at [here]([https://arisandi.vercel.app/]
+- 👨‍💻 All of my projects are available at [here]([https://arisandi-satria.vercel.app/]
 
 - 📫 How to reach me **arisandisatria541@gmail.com** or dm me in [here](https://www.instagram.com/arisandi.dev.art/))
 
